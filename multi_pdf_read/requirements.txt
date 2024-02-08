@@ -8,3 +8,6 @@ faiss-cpu
 langchain_google_genai
 docx2txt
 python-docx
+sentence-transformers
+uvicorn
+ctransformers
